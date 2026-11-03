@@ -17,4 +17,4 @@ Operate switches and observe the LED output.
 
 ## External hardware
 
-LED and Switches
+LED and Switches.
